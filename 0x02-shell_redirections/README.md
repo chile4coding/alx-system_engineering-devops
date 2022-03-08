@@ -14,3 +14,4 @@
 # Being unique is better than being perfect
 # It must be in that file
 # Count that word
+# Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
