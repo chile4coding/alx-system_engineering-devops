@@ -22,3 +22,4 @@
 # Write a script that reverse its input.
 # Write a script that displays all users and their home directories, sorted by users.
 # 
+# Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
